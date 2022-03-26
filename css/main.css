@@ -179,6 +179,12 @@ main {
     row-gap: 5vh;
 }
 
+@media (max-width: 800px) {
+    #links-container {
+        grid-template-rows: unset;
+    }
+}
+
 /* Media Queries */
 @media only screen and (min-width: 600px) {
 
