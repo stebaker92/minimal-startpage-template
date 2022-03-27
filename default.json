@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Productivity",
+        "items": [
+            {
+                "name": "mail.google.com",
+                "url": "https://mail.google.com/mail/u/0/#inbox"
+            }
+        ]
+    },
+    {
+        "title": "Entertainment",
+        "items": [
+            {
+                "name": "YouTube - Watch Later",
+                "url": "https://www.youtube.com/playlist?list=WL"
+            },
+            {
+                "name": "Twitch",
+                "url": "twitch.tv/"
+            }
+        ]
+    }
+]

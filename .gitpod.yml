@@ -1,5 +1,5 @@
 tasks:
   - init: |
-      echo 'TODO: build project'
+      npx --yes http-server -c-1
     command: |
-      npx http-server -c-1
+      npx --yes http-server -c-1
